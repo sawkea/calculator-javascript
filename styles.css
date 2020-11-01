@@ -1,0 +1,46 @@
+.container{
+    width: 350px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5rem;
+}
+#ecran{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color:  rgb(255, 255, 255);
+    color:  rgb(1, 84, 109);
+    text-align: right;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 6px;
+    font-size: 1.6em;
+    font-family: 'Grandstander', cursive;
+
+}
+.btn{
+    width: 50px;
+    height: 50px;
+    background: linear-gradient(rgb(215, 215, 215), white, rgb(215, 215, 215));
+    font-family: 'Grandstander', cursive;
+    font-size: 1em;
+    padding: 5px;
+    margin: 1px;
+}
+.gbtn{
+    width: 100%;
+}
+table{
+    margin-right: auto;
+    margin-left: auto;
+    padding: 6px;
+    border: solid 1px rgb(194, 192, 192);
+    background-color: rgb(1, 84, 109);
+    padding-bottom: 1.5rem;
+    border-radius: 15px;
+}
+
+p{
+    font-family: 'Grandstander', cursive;
+    font-size: 1em;
+    text-align: center;
+}
